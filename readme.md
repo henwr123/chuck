@@ -13,3 +13,6 @@ Needs Node10-Express Template
 https://github.com/openfaas-incubator/node10-express-template
 
 
+Git Ignore Generator !!!
+https://www.gitignore.io/
+
