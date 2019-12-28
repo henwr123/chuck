@@ -5,6 +5,5 @@ provider:
 functions:
   chuck:
     lang: node10-express
-    handler: ./chuck
+    handler: ./
     image: chuck:latest
-
